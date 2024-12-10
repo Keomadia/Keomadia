@@ -25,7 +25,7 @@
 
  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keomadianyankah@gmail.com)
 <p align="left">
-<a href="your link" target="blank" color="white" text-decoration="none"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />
+<a href="https://linkedin.com/in/keomadi-anyankah-1723a5306" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />
 </a>
 <br>
  
